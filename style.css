@@ -19,6 +19,9 @@ body {
 
 .header img {
   width: 150px;
+  height: 150px;
+  object-fit: cover;
+  object-position: center 20%;
   border-radius: 50%;
   border: 5px solid white;
 }
